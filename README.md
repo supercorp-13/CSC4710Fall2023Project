@@ -2,8 +2,8 @@
 A collaborative project by D Barnes and Nadinne Motta. 
 
 ### Table of Contents
-- About the Project
-* How to Run Project
++ About the Project
++ How to Run Project
 + Project Parts and Contributors
 + Contact Information
 
