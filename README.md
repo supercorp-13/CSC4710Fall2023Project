@@ -38,8 +38,18 @@ Finally, set up (in System Environment Variables):
 + Nadinne:
   - Completed Github setup + integration
   - Assisted with coding for part 1
-  - Assisted with creation of ER Diagram
+  - Helped with ER Diagram
 
+## Part 2: Combined Hours of work: 80
++ D:
+  - Coded the "quote responses" for the client and David Smith
+  - Assisted with coding for part 2
+  - Troubleshooted code
++ Nadinne:
+  - Completed Github setup + integration
+  - Assisted with coding for part 2
+  - Troubleshooting code
+    
 # Contact Information
 - D Barnes: go7691@wayne.edu, D-Barnes-CS on Github
 - Nadinne Motta: hl1179@wayne.edu, supercorp-13 on Github
