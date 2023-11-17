@@ -24,10 +24,28 @@ Finally, set up (in System Environment Variables):
 * CATALINA_HOME: Point it to your Tomcat installation directory.
 
 ### Runnning Project
-1. Place project zip file (download in the github directory in the 'Code' by pressing "Download Zip"
-2. Add that extracted file to the Eclipse workspace.
-3. Open Eclipse and import that folder into the workspace.
-4. From here, you can find the .jsp files and run those. 
+1. Place project zip file (download in the github directory in the 'Code' by pressing "Download Zip")
+2. Add that extracted file to the Eclipse workspace (Windows (:C) -> Users -> your_user -> eclipse-workspace).
+3. Open Eclipse and import that folder into the workspace (use Import -> import from existing workspace).
+4. Start running your Apache TomCat Server (down in Servers tab) and add the folder to it.
+6. From here, you can find the .jsp files and run those, the recommended order is:
+   To register/be a client:
+   - login.jsp
+   - Then, register as a user, go back to login, and login with the email and password you put down.
+   - After this, create a request for a tree cutting and submit it.
+   - David Smith will send you a quote, and you will be able to respond to it in a comment.
+   - After sending the comment, David Smith will respond, and you will have the option to accept or decline the quote.
+
+   To view root/database:
+   - login.jsp
+   - Log in with email: root, password: pass1234
+   - This will allow you to view all the tables, as well as initialize the database.
+
+   To be David Smith:
+   - login.jsp
+   - Log in with email: david@gmail.com, password: david1234
+   - This will allow you to view David Smith's dashboard with the list of trees requested, and to write a quote for a tree and send it.
+   - This page will also allow David Smith to respond to a client's comment. 
 
 # Project Parts and Contributors
 ## Part 1: Combined Hours of work: 35
