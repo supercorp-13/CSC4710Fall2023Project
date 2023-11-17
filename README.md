@@ -8,7 +8,7 @@ A collaborative project by D Barnes and Nadinne Motta.
 + Contact Information
 
 # About the Project
-The DM Tree Cutting Service page is a web project integrating Eclipse, Apache Tomcat, and mySQL. We used SQL, Java, Javascript to build this website. 
+The David Smith Tree Cutting Service page is a web project integrating Eclipse, Apache Tomcat, and mySQL. We used SQL, Java, Javascript to build this website. 
 
 # How to run Project
 ### To run the project, begin by making sure you have:
