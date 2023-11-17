@@ -38,7 +38,7 @@ Finally, set up (in System Environment Variables):
 
  + To view root/database:
    - login.jsp
-   - Log in with email: root, password: pass1234
+   - Log in with email: root, password: root1234
    - This will allow you to view all the tables, as well as initialize the database.
 
  + To be David Smith:
