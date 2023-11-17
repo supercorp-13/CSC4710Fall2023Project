@@ -66,7 +66,7 @@ Finally, set up (in System Environment Variables):
 + Nadinne:
   - Completed Github setup + integration
   - Assisted with coding for part 2
-  - Troubleshooting code
+  - Troubleshooted code
     
 # Contact Information
 - D Barnes: go7691@wayne.edu, D-Barnes-CS on Github
