@@ -12,10 +12,10 @@ The David Smith Tree Cutting Service page is a web project integrating Eclipse, 
 
 # How to run Project
 ### To run the project, begin by making sure you have:
-+ Eclipse for Java and Web Developers
++ Eclipse for Java and Web Developers: 
 You can download this through the official Eclipse website.
 
-+ Apache Tomcat Server
++ Apache Tomcat Server: 
 You can download this through the Apache Tomcat Website (version 8) and follow the installation instructions provided by the website.
 
 + JAVA_HOME and CATALINA_HOME Setup:
