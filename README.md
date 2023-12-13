@@ -67,6 +67,16 @@ Finally, set up (in System Environment Variables):
   - Completed Github setup + integration
   - Assisted with coding for part 2
   - Troubleshooted code
+  - 
+## Part 3: Combined Hours of work: 80
++ D:
+  - Coded the rootview to show all data
+  - Assisted with coding for part 3
+  - Troubleshooted code
++ Nadinne:
+  - Completed Github setup + integration
+  - Assisted with coding for part 3
+  - Troubleshooted code
     
 # Contact Information
 - D Barnes: go7691@wayne.edu, D-Barnes-CS on Github
