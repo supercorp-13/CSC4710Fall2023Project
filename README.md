@@ -68,7 +68,7 @@ Finally, set up (in System Environment Variables):
   - Assisted with coding for part 2
   - Troubleshooted code
   - 
-## Part 3: Combined Hours of work: 80
+## Part 3: Combined Hours of work: 30
 + D:
   - Coded the rootview to show all data
   - Assisted with coding for part 3
